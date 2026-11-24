@@ -1,5 +1,7 @@
 # Who Has a Bank Account? Predicting Financial Inclusion Across Countries
 
+Blog post: [Richer Does Not Always Mean More Banked: What 161 Countries Show](https://gbmaxwell.medium.com/richer-does-not-always-mean-more-banked-what-161-countries-show-ff0458d469b8)
+
 ## Motivation
 
 An account at a bank or a mobile money provider is the entry point to saving, borrowing and getting paid. This project uses World Bank data to look at where account ownership is low, what goes with it, and how well it can be predicted from indicators that are published every year. It was completed for the Udacity Data Scientist Nanodegree and follows the CRISP-DM process.
